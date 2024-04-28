@@ -1,0 +1,15 @@
+.icon-container {
+    display: flex;
+    justify-content: end;
+  }
+  
+  .icon {
+    font-size: 4xl;
+    background: linear-gradient(to right, #06286E, #164EC0);
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+  .child-container {
+    border-radius: calc(3.5rem - 1px);
+  }  
+  

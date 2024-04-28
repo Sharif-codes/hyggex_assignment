@@ -6,6 +6,11 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily:{
+      inter: ["Inter","sans-serif"],
+      monster:["Montserrat","sans-serif"],
+      lato: ["Lato","sans-serif"]
+    }
   },
   plugins: [require("daisyui")],
 }
